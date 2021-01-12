@@ -1,0 +1,12 @@
+D:\GitHub\Design-Patterns\DesignPatterns\Ch1_StrategyPattern\bin\Release\netcoreapp3.1\Ch1_StrategyPattern.exe
+D:\GitHub\Design-Patterns\DesignPatterns\Ch1_StrategyPattern\bin\Release\netcoreapp3.1\Ch1_StrategyPattern.deps.json
+D:\GitHub\Design-Patterns\DesignPatterns\Ch1_StrategyPattern\bin\Release\netcoreapp3.1\Ch1_StrategyPattern.runtimeconfig.json
+D:\GitHub\Design-Patterns\DesignPatterns\Ch1_StrategyPattern\bin\Release\netcoreapp3.1\Ch1_StrategyPattern.runtimeconfig.dev.json
+D:\GitHub\Design-Patterns\DesignPatterns\Ch1_StrategyPattern\bin\Release\netcoreapp3.1\Ch1_StrategyPattern.dll
+D:\GitHub\Design-Patterns\DesignPatterns\Ch1_StrategyPattern\bin\Release\netcoreapp3.1\Ch1_StrategyPattern.pdb
+D:\GitHub\Design-Patterns\DesignPatterns\Ch1_StrategyPattern\obj\Release\netcoreapp3.1\Ch1_StrategyPattern.AssemblyInfoInputs.cache
+D:\GitHub\Design-Patterns\DesignPatterns\Ch1_StrategyPattern\obj\Release\netcoreapp3.1\Ch1_StrategyPattern.AssemblyInfo.cs
+D:\GitHub\Design-Patterns\DesignPatterns\Ch1_StrategyPattern\obj\Release\netcoreapp3.1\Ch1_StrategyPattern.csproj.CoreCompileInputs.cache
+D:\GitHub\Design-Patterns\DesignPatterns\Ch1_StrategyPattern\obj\Release\netcoreapp3.1\Ch1_StrategyPattern.dll
+D:\GitHub\Design-Patterns\DesignPatterns\Ch1_StrategyPattern\obj\Release\netcoreapp3.1\Ch1_StrategyPattern.pdb
+D:\GitHub\Design-Patterns\DesignPatterns\Ch1_StrategyPattern\obj\Release\netcoreapp3.1\Ch1_StrategyPattern.genruntimeconfig.cache
